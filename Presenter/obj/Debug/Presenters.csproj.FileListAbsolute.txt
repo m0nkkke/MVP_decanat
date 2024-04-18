@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\bin\Debug\Presenter.dll
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\bin\Debug\Presenter.pdb
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\bin\Debug\Model.dll
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\bin\Debug\Model.pdb
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\obj\Debug\Presenters.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\obj\Debug\Presenters.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\obj\Debug\Presenters.csproj.CopyComplete
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\obj\Debug\Presenter.dll
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\obj\Debug\Presenter.pdb
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\bin\Debug\ViewWF.dll
+C:\Users\user\source\repos\AIS\ais_5_0\Presenter\bin\Debug\ViewWF.pdb
